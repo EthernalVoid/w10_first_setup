@@ -167,6 +167,7 @@ Abbreviations:
 ### Optional
 * [XWiki](https://xwiki.com/en/offerings/products/xwiki-standard) (FOSS) - WebServer wiki
 * [OpenCRX](https://github.com/opencrx/opencrx) (FOSS) - Customer relationship management software
+* [Git for W10](https://git-scm.com/downloads) (FOSS) - open-source software tracking application
 
 ## Image manipulation 
 * [qimgv](https://github.com/easymodo/qimgv/releases/latest) (FOSS) - Image viewer
@@ -179,6 +180,7 @@ Abbreviations:
 
 ### Optional
 * [Paint.net](https://www.getpaint.net/doc/latest/InstallPDN.html) (Freeware) - raster graphics editor, developed on the.NET Framework
+* [Power toys](https://docs.microsoft.com/en-us/windows/powertoys/) (Microsoft propriatery) - utilities for power users to tune and streamline their Windows experience
 
 ## Video manipulation
 * [VLC](https://www.videolan.org/vlc/download-windows.html) (FOSS) - multimedia player and framework
